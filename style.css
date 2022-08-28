@@ -86,19 +86,19 @@ nav {
 #project-1 {
     float: left;
     height: auto;
-    width: 600px;
+    width: 1000px;
 }
 
 #project-2 {
     float: center;
     height: auto;
-    width: 600px;
+    width: 500px;
 }
 
 #project-3 {
     float: right;
     height: auto;
-    width: 600px;
+    width: 500px;
 }
 
 footer {
